@@ -1,0 +1,7 @@
+# Пример файла переменных окружения
+# Скопируйте в .env и заполните своими значениями
+
+TELEGRAM_TOKEN=7638087297:AAGa2ZPRJDOq_Tvvx_hNwNiFGPm1Btr_bPI
+GROUP_CHAT_ID=-1002448216356
+WEATHER_API_KEY=7b8b7d0c3b8b8b5e4bb8d5dd8f58e7dd
+CITY=Lipetsk
